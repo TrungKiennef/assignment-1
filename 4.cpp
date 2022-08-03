@@ -12,7 +12,6 @@ int main(){
 	int MAX = a;
 	if(b > MAX){
 		printf("so lon nhat la b");
-	}else{
 	if(c > MAX){
 		printf("so lon nhat la c");
 	}else{
